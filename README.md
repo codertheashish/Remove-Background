@@ -34,7 +34,7 @@ pip install withoutbg
 2️⃣ Clone :
 
 ```bash
-https://github.com/codertheashish/background_remover.git
+https://github.com/codertheashish/Remove-Background
 ```
 
 ---
@@ -44,7 +44,7 @@ https://github.com/codertheashish/background_remover.git
 1. Run the script:
 
 ```bash
-python remove_bg.py
+python remove_background.py
 ```
 
 2. Make sure your image (e.g., `ashish.jpeg`) is in the same folder
